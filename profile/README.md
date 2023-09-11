@@ -5,5 +5,3 @@ Audio-AGI is an open-source research community. The community members are workin
 - Generative AI for audio (e.g., text-to-audio/music/speech synthesis, audio super-resolution)
 - Large language models (LLMs) for audio/speech/music signals
 
-Welcome to join us! 
-
